@@ -1,0 +1,1246 @@
+[2026-05-30 19:51:21] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:127: No high score file found. Populating default leaderboard.
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:155: High scores saved successfully.
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 2. Score: 15
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:111: COMBO! Sliced 3 fruits. Bonus +3 points. New score: 6
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 19:51:21] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:51:21] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-05-30 19:51:21] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'SETTINGS'
+[2026-05-30 19:51:21] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'SETTINGS' to 'MAIN_MENU'
+[2026-05-30 19:51:21] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-05-30 19:51:21] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: PLAYING
+[2026-05-30 19:51:21] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-05-30 19:51:21] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-05-30 19:51:58] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 2. Score: 15
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:111: COMBO! Sliced 3 fruits. Bonus +3 points. New score: 6
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 19:51:59] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:51:59] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-05-30 19:51:59] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'SETTINGS'
+[2026-05-30 19:51:59] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'SETTINGS' to 'MAIN_MENU'
+[2026-05-30 19:51:59] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-05-30 19:51:59] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: PLAYING
+[2026-05-30 19:51:59] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-05-30 19:51:59] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-05-30 19:52:18] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-05-30 19:57:34] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-05-30 19:57:34] [ERROR] [MainThread] hand_tracker.py:12: MediaPipe failed to load (Detected incompatible Protobuf Gencode/Runtime versions when loading tensorflow/core/framework/attr_value.proto: gencode 6.31.1 runtime 5.29.6. Runtime version cannot be older than the linked gencode version. See Protobuf version guarantees at https://protobuf.dev/support/cross-version-runtime-guarantee.). Hand tracking will be unavailable; falling back to mouse input.
+[2026-05-30 19:57:35] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-05-30 19:57:35] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 19:57:35] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'FruitPool' with 20 pre-allocated objects.
+[2026-05-30 19:57:35] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'ParticlePool' with 150 pre-allocated objects.
+[2026-05-30 19:57:35] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'TrailPool' with 40 pre-allocated objects.
+[2026-05-30 19:57:35] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-05-30 19:57:35] [INFO] [MainThread] fruit.py:20: Generating procedural fruit surfaces...
+[2026-05-30 19:57:35] [INFO] [MainThread] fruit.py:175: Cached 6 procedural fruit surfaces successfully.
+[2026-05-30 19:57:35] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-05-30 19:57:35] [INFO] [MainThread] audio.py:36: Generating procedural sound effects...
+[2026-05-30 19:57:35] [INFO] [MainThread] audio.py:42: Procedural sound generation complete. 5 sounds created.
+[2026-05-30 19:57:35] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'LOADING' to 'PLAYING'
+[2026-05-30 19:57:35] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 19:57:35] [INFO] [MainThread] benchmark.py:62: Headless benchmark game loop active. Simulating inputs...
+[2026-05-30 19:57:35] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:35] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:36] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:37] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:37] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:38] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:38] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:39] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:39] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:40] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:40] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 2. Score: 0
+[2026-05-30 19:57:41] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:41] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:41] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:42] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:43] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:43] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:43] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 19:57:44] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 19:57:44] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:06:16] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-05-30 20:06:17] [ERROR] [MainThread] hand_tracker.py:12: MediaPipe failed to load (Detected incompatible Protobuf Gencode/Runtime versions when loading tensorflow/core/framework/attr_value.proto: gencode 6.31.1 runtime 5.29.6. Runtime version cannot be older than the linked gencode version. See Protobuf version guarantees at https://protobuf.dev/support/cross-version-runtime-guarantee.). Hand tracking will be unavailable; falling back to mouse input.
+[2026-05-30 20:06:17] [INFO] [MainThread] main.py:8: =========================================
+[2026-05-30 20:06:17] [INFO] [MainThread] main.py:9: Starting Fruit Cutter Vision application
+[2026-05-30 20:06:17] [INFO] [MainThread] main.py:10: Python version: 3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]
+[2026-05-30 20:06:17] [INFO] [MainThread] main.py:11: Operating System: win32
+[2026-05-30 20:06:17] [INFO] [MainThread] main.py:12: Current Working Directory: C:\Users\ankit\OneDrive\Desktop\Fruit Cutter Vision
+[2026-05-30 20:06:17] [INFO] [MainThread] main.py:13: =========================================
+[2026-05-30 20:06:17] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-05-30 20:06:17] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 20:06:17] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'FruitPool' with 20 pre-allocated objects.
+[2026-05-30 20:06:17] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'ParticlePool' with 150 pre-allocated objects.
+[2026-05-30 20:06:17] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'TrailPool' with 40 pre-allocated objects.
+[2026-05-30 20:06:17] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-05-30 20:06:17] [INFO] [MainThread] camera.py:31: Camera capture thread started.
+[2026-05-30 20:06:17] [WARNING] [MainThread] hand_tracker.py:44: Cannot start HandTracker thread: MediaPipe is missing.
+[2026-05-30 20:06:17] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 3 records.
+[2026-05-30 20:06:17] [INFO] [MainThread] game_engine.py:101: Game Engine started.
+[2026-05-30 20:06:17] [INFO] [MainThread] fruit.py:20: Generating procedural fruit surfaces...
+[2026-05-30 20:06:17] [INFO] [MainThread] fruit.py:175: Cached 6 procedural fruit surfaces successfully.
+[2026-05-30 20:06:17] [INFO] [MainThread] audio.py:36: Generating procedural sound effects...
+[2026-05-30 20:06:17] [INFO] [MainThread] audio.py:42: Procedural sound generation complete. 5 sounds created.
+[2026-05-30 20:06:18] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'LOADING' to 'MAIN_MENU'
+[2026-05-30 20:06:19] [INFO] [CameraThread] camera.py:50: Webcam initialized: Requested (640x480), Got (640x480)
+[2026-05-30 20:06:40] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:06:40] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-05-30 20:06:41] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:06:43] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:06:43] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:06:45] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:06:45] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:06:47] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:06:49] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:06:51] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:06:53] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:06:55] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:06:57] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:06:59] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:07:01] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:07:03] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:07:04] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 0. Score: 0
+[2026-05-30 20:07:04] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-05-30 20:07:04] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:10:12] [INFO] [MainThread] score_system.py:155: High scores saved successfully.
+[2026-05-30 20:10:13] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:10:13] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:10:15] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:11:44] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 4 records.
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 2. Score: 15
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 4 records.
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:111: COMBO! Sliced 3 fruits. Bonus +3 points. New score: 6
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 4 records.
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 4 records.
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 4 records.
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 4 records.
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 4 records.
+[2026-05-30 20:11:44] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:11:44] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-05-30 20:11:44] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'SETTINGS'
+[2026-05-30 20:11:44] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'SETTINGS' to 'MAIN_MENU'
+[2026-05-30 20:11:44] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-05-30 20:11:44] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: PLAYING
+[2026-05-30 20:11:44] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-05-30 20:11:44] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-05-30 20:12:06] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-05-30 20:12:07] [ERROR] [MainThread] hand_tracker.py:12: MediaPipe failed to load (Detected incompatible Protobuf Gencode/Runtime versions when loading tensorflow/core/framework/attr_value.proto: gencode 6.31.1 runtime 5.29.6. Runtime version cannot be older than the linked gencode version. See Protobuf version guarantees at https://protobuf.dev/support/cross-version-runtime-guarantee.). Hand tracking will be unavailable; falling back to mouse input.
+[2026-05-30 20:12:07] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-05-30 20:12:07] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 4 records.
+[2026-05-30 20:12:07] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'FruitPool' with 20 pre-allocated objects.
+[2026-05-30 20:12:07] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'ParticlePool' with 150 pre-allocated objects.
+[2026-05-30 20:12:07] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'TrailPool' with 40 pre-allocated objects.
+[2026-05-30 20:12:07] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-05-30 20:12:07] [INFO] [MainThread] fruit.py:20: Generating procedural fruit surfaces...
+[2026-05-30 20:12:07] [INFO] [MainThread] fruit.py:175: Cached 6 procedural fruit surfaces successfully.
+[2026-05-30 20:12:07] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-05-30 20:12:07] [INFO] [MainThread] audio.py:36: Generating procedural sound effects...
+[2026-05-30 20:12:07] [INFO] [MainThread] audio.py:42: Procedural sound generation complete. 5 sounds created.
+[2026-05-30 20:12:07] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'LOADING' to 'PLAYING'
+[2026-05-30 20:12:07] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:12:07] [INFO] [MainThread] benchmark.py:62: Headless benchmark game loop active. Simulating inputs...
+[2026-05-30 20:12:07] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:07] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:08] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:09] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:09] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:10] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:10] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:11] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:11] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:12] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:13] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:13] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:13] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:12:13] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-05-30 20:12:13] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 1. Score: 0
+[2026-05-30 20:12:14] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:15] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:15] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:16] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:12:16] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:24:58] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-05-30 20:25:00] [ERROR] [MainThread] hand_tracker.py:12: MediaPipe failed to load (Detected incompatible Protobuf Gencode/Runtime versions when loading tensorflow/core/framework/attr_value.proto: gencode 6.31.1 runtime 5.29.6. Runtime version cannot be older than the linked gencode version. See Protobuf version guarantees at https://protobuf.dev/support/cross-version-runtime-guarantee.). Hand tracking will be unavailable; falling back to mouse input.
+[2026-05-30 20:25:00] [INFO] [MainThread] main.py:8: =========================================
+[2026-05-30 20:25:00] [INFO] [MainThread] main.py:9: Starting Fruit Cutter Vision application
+[2026-05-30 20:25:00] [INFO] [MainThread] main.py:10: Python version: 3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]
+[2026-05-30 20:25:00] [INFO] [MainThread] main.py:11: Operating System: win32
+[2026-05-30 20:25:00] [INFO] [MainThread] main.py:12: Current Working Directory: C:\Users\ankit\OneDrive\Desktop\Fruit Cutter Vision
+[2026-05-30 20:25:00] [INFO] [MainThread] main.py:13: =========================================
+[2026-05-30 20:25:00] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-05-30 20:25:00] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 4 records.
+[2026-05-30 20:25:00] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'FruitPool' with 20 pre-allocated objects.
+[2026-05-30 20:25:00] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'ParticlePool' with 150 pre-allocated objects.
+[2026-05-30 20:25:00] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'TrailPool' with 40 pre-allocated objects.
+[2026-05-30 20:25:00] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-05-30 20:25:00] [INFO] [MainThread] camera.py:31: Camera capture thread started.
+[2026-05-30 20:25:00] [WARNING] [MainThread] hand_tracker.py:44: Cannot start HandTracker thread: MediaPipe is missing.
+[2026-05-30 20:25:00] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 4 records.
+[2026-05-30 20:25:00] [INFO] [MainThread] game_engine.py:101: Game Engine started.
+[2026-05-30 20:25:00] [INFO] [MainThread] fruit.py:20: Generating procedural fruit surfaces...
+[2026-05-30 20:25:00] [INFO] [MainThread] fruit.py:368: Cached 16 procedural fruit surfaces successfully.
+[2026-05-30 20:25:00] [INFO] [MainThread] audio.py:36: Generating procedural sound effects...
+[2026-05-30 20:25:00] [INFO] [MainThread] audio.py:42: Procedural sound generation complete. 5 sounds created.
+[2026-05-30 20:25:01] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'LOADING' to 'MAIN_MENU'
+[2026-05-30 20:25:02] [INFO] [CameraThread] camera.py:50: Webcam initialized: Requested (640x480), Got (640x480)
+[2026-05-30 20:25:10] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:25:10] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-05-30 20:25:11] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:25:13] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:25:15] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:25:15] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:25:17] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:25:19] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:25:21] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:25:23] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:25:25] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:25:27] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:25:29] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:25:31] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:25:33] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-05-30 20:25:34] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-05-30 20:25:36] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-05-30 20:25:38] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-05-30 20:25:40] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-05-30 20:25:42] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 2. Next interval: 1.82s, Bomb prob: 0.20
+[2026-05-30 20:25:44] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 2. Next interval: 1.82s, Bomb prob: 0.20
+[2026-05-30 20:25:44] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:25:45] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 2. Next interval: 1.82s, Bomb prob: 0.20
+[2026-05-30 20:25:47] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 2. Next interval: 1.64s, Bomb prob: 0.20
+[2026-05-30 20:25:49] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.64s, Bomb prob: 0.20
+[2026-05-30 20:25:51] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 2. Next interval: 1.64s, Bomb prob: 0.20
+[2026-05-30 20:25:52] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 2. Next interval: 1.64s, Bomb prob: 0.20
+[2026-05-30 20:25:54] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.64s, Bomb prob: 0.25
+[2026-05-30 20:25:56] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.64s, Bomb prob: 0.25
+[2026-05-30 20:25:57] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 2. Next interval: 1.64s, Bomb prob: 0.25
+[2026-05-30 20:25:59] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 3. Next interval: 1.46s, Bomb prob: 0.25
+[2026-05-30 20:26:00] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 0. Score: 22
+[2026-05-30 20:26:00] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 22
+[2026-05-30 20:26:00] [INFO] [MainThread] score_system.py:155: High scores saved successfully.
+[2026-05-30 20:26:00] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:26:03] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:26:03] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:26:04] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:06] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:26:06] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:08] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:08] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:26:10] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:12] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:13] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:26:13] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-05-30 20:26:13] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:26:14] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:26:14] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:26:15] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:17] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:17] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:26:19] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:21] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:21] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:26:23] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:23] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:26:23] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-05-30 20:26:23] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:26:24] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:26:24] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:26:25] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:27] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:28] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:26:29] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:30] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:26:31] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:32] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:26:32] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-05-30 20:26:32] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:26:33] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:26:33] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:26:34] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:36] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:26:36] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:38] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:38] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:26:40] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:40] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:26:40] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-05-30 20:26:40] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:26:42] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:26:42] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:26:43] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:45] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:45] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:26:47] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:47] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:26:49] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:49] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:26:49] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-05-30 20:26:49] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:26:50] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:26:50] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:26:51] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:53] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:26:53] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:55] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:57] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:57] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:26:59] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:26:59] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:26:59] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-05-30 20:26:59] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:27:01] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:27:01] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:27:02] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:04] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:06] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:07] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 2. Score: 0
+[2026-05-30 20:27:09] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:11] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:13] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:15] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:17] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:27:17] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:19] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:20] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 0. Score: 0
+[2026-05-30 20:27:20] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-05-30 20:27:20] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:27:23] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:27:23] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:27:24] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:26] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:28] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:28] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:27:30] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:30] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:27:32] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:34] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:34] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 0. Score: 0
+[2026-05-30 20:27:34] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-05-30 20:27:34] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:27:38] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:27:38] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:27:39] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:41] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:43] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:45] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:47] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:49] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:51] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:53] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:55] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:55] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:27:57] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:27:58] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:27:59] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:01] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:02] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:28:02] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 6
+[2026-05-30 20:28:02] [INFO] [MainThread] score_system.py:155: High scores saved successfully.
+[2026-05-30 20:28:02] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:28:05] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:28:05] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:28:06] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:08] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:08] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:28:10] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:12] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:14] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:14] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:28:16] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:18] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:20] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:22] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:22] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:28:22] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 4
+[2026-05-30 20:28:22] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:28:27] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:28:27] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:28:28] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:30] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:32] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:32] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:28:34] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:36] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:38] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:40] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:42] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:44] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:46] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:46] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:28:48] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:50] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:52] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:52] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:28:52] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 6
+[2026-05-30 20:28:52] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:28:56] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:28:56] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:28:57] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:59] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:28:59] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:29:01] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:01] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:29:03] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:05] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:05] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:29:05] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-05-30 20:29:05] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:29:10] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:29:10] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:29:11] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:13] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:15] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:17] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:19] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:21] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:21] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:29:23] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:25] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:25] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:29:26] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 0. Score: 0
+[2026-05-30 20:29:26] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-05-30 20:29:26] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:29:31] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:29:31] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:29:32] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:34] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:36] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:38] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:40] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:40] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:29:42] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:44] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:46] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:48] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:50] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:52] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:54] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:54] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:29:56] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:29:58] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:00] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:00] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 0. Score: 0
+[2026-05-30 20:30:00] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-05-30 20:30:00] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:30:06] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:30:06] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:30:07] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:09] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:11] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:13] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:15] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:17] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:19] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:19] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:30:21] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:21] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:30:23] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:25] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:27] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:27] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:30:27] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 4
+[2026-05-30 20:30:27] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:30:35] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:30:35] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:30:36] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:38] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:40] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:40] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:30:42] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:42] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:30:44] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:44] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:30:44] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 1
+[2026-05-30 20:30:44] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:30:50] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:30:50] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:30:51] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:53] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:55] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:57] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:30:57] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:30:59] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:01] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:03] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:05] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:05] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:31:07] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:07] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:31:07] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 4
+[2026-05-30 20:31:07] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:31:10] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:31:10] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:31:11] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:13] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:15] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:15] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:31:17] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:19] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:21] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:23] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:25] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:27] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:29] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:31] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:33] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:35] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:35] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-05-30 20:31:37] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:39] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:41] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:43] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:45] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:47] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:49] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:49] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-05-30 20:31:49] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 9
+[2026-05-30 20:31:49] [INFO] [MainThread] score_system.py:155: High scores saved successfully.
+[2026-05-30 20:31:49] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-05-30 20:31:55] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-05-30 20:31:55] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-05-30 20:31:56] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:31:58] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:32:00] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:32:02] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:32:04] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:32:06] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:32:08] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:32:10] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:32:12] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:32:14] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:32:16] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:32:18] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:32:20] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-05-30 20:32:22] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-05-30 20:32:23] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-05-30 20:32:25] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-05-30 20:32:26] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-05-30 20:32:27] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-05-30 20:32:27] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-05 21:23:28] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 2. Score: 15
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:111: COMBO! Sliced 3 fruits. Bonus +3 points. New score: 6
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:23:28] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:23:28] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-06-05 21:23:28] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'SETTINGS'
+[2026-06-05 21:23:28] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'SETTINGS' to 'MAIN_MENU'
+[2026-06-05 21:23:28] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-06-05 21:23:28] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: PLAYING
+[2026-06-05 21:23:28] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-06-05 21:23:28] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-06-05 21:23:48] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-06-05 21:23:50] [ERROR] [MainThread] hand_tracker.py:12: MediaPipe failed to load (Detected incompatible Protobuf Gencode/Runtime versions when loading tensorflow/core/framework/attr_value.proto: gencode 6.31.1 runtime 5.29.6. Runtime version cannot be older than the linked gencode version. See Protobuf version guarantees at https://protobuf.dev/support/cross-version-runtime-guarantee.). Hand tracking will be unavailable; falling back to mouse input.
+[2026-06-05 21:23:50] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-06-05 21:23:50] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:23:50] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'FruitPool' with 20 pre-allocated objects.
+[2026-06-05 21:23:50] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'ParticlePool' with 150 pre-allocated objects.
+[2026-06-05 21:23:50] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'TrailPool' with 40 pre-allocated objects.
+[2026-06-05 21:23:50] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-06-05 21:23:50] [INFO] [MainThread] fruit.py:20: Generating procedural fruit surfaces...
+[2026-06-05 21:23:50] [INFO] [MainThread] fruit.py:368: Cached 16 procedural fruit surfaces successfully.
+[2026-06-05 21:23:50] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-06-05 21:23:50] [INFO] [MainThread] audio.py:36: Generating procedural sound effects...
+[2026-06-05 21:23:50] [INFO] [MainThread] audio.py:42: Procedural sound generation complete. 5 sounds created.
+[2026-06-05 21:23:50] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'LOADING' to 'PLAYING'
+[2026-06-05 21:23:50] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:23:50] [INFO] [MainThread] benchmark.py:62: Headless benchmark game loop active. Simulating inputs...
+[2026-06-05 21:23:50] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:23:51] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:23:51] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:23:52] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:23:52] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:23:53] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:23:53] [INFO] [MainThread] score_system.py:111: COMBO! Sliced 3 fruits. Bonus +3 points. New score: 9
+[2026-06-05 21:23:54] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:23:54] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:23:54] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-05 21:23:55] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-05 21:23:56] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-05 21:23:56] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-05 21:23:57] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-05 21:23:57] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 2. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-05 21:23:57] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 2. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-05 21:23:58] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 2. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-05 21:23:58] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 2. Score: 6
+[2026-06-05 21:23:59] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:23:59] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:24:00] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:24:17] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-06-05 21:24:18] [ERROR] [MainThread] hand_tracker.py:12: MediaPipe failed to load (Detected incompatible Protobuf Gencode/Runtime versions when loading tensorflow/core/framework/attr_value.proto: gencode 6.31.1 runtime 5.29.6. Runtime version cannot be older than the linked gencode version. See Protobuf version guarantees at https://protobuf.dev/support/cross-version-runtime-guarantee.). Hand tracking will be unavailable; falling back to mouse input.
+[2026-06-05 21:24:18] [INFO] [MainThread] main.py:8: =========================================
+[2026-06-05 21:24:18] [INFO] [MainThread] main.py:9: Starting Fruit Cutter Vision application
+[2026-06-05 21:24:18] [INFO] [MainThread] main.py:10: Python version: 3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]
+[2026-06-05 21:24:18] [INFO] [MainThread] main.py:11: Operating System: win32
+[2026-06-05 21:24:18] [INFO] [MainThread] main.py:12: Current Working Directory: C:\Users\ankit\OneDrive\Desktop\Fruit Cutter Vision
+[2026-06-05 21:24:18] [INFO] [MainThread] main.py:13: =========================================
+[2026-06-05 21:24:19] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-06-05 21:24:19] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:24:19] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'FruitPool' with 20 pre-allocated objects.
+[2026-06-05 21:24:19] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'ParticlePool' with 150 pre-allocated objects.
+[2026-06-05 21:24:19] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'TrailPool' with 40 pre-allocated objects.
+[2026-06-05 21:24:19] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-06-05 21:24:19] [INFO] [MainThread] camera.py:31: Camera capture thread started.
+[2026-06-05 21:24:19] [WARNING] [MainThread] hand_tracker.py:44: Cannot start HandTracker thread: MediaPipe is missing.
+[2026-06-05 21:24:19] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:24:19] [INFO] [MainThread] game_engine.py:101: Game Engine started.
+[2026-06-05 21:24:19] [INFO] [MainThread] fruit.py:20: Generating procedural fruit surfaces...
+[2026-06-05 21:24:19] [INFO] [MainThread] fruit.py:368: Cached 16 procedural fruit surfaces successfully.
+[2026-06-05 21:24:19] [INFO] [MainThread] audio.py:36: Generating procedural sound effects...
+[2026-06-05 21:24:19] [INFO] [MainThread] audio.py:42: Procedural sound generation complete. 5 sounds created.
+[2026-06-05 21:24:19] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'LOADING' to 'MAIN_MENU'
+[2026-06-05 21:24:20] [INFO] [CameraThread] camera.py:50: Webcam initialized: Requested (640x480), Got (640x480)
+[2026-06-05 21:24:33] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:24:33] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-06-05 21:24:34] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:24:36] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:24:38] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:24:38] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-05 21:24:40] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:24:42] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:24:42] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-05 21:24:44] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:24:44] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 0. Score: 0
+[2026-06-05 21:24:44] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-06-05 21:24:44] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-05 21:24:53] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:24:53] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-06-05 21:24:54] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:24:56] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:24:58] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:24:58] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-05 21:25:00] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:25:02] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:25:04] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:25:04] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-05 21:25:06] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-05 21:25:06] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-05 21:25:06] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 3
+[2026-06-05 21:25:06] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-05 21:32:37] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 2. Score: 15
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:111: COMBO! Sliced 3 fruits. Bonus +3 points. New score: 6
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:32:37] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:32:37] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-06-05 21:32:37] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'SETTINGS'
+[2026-06-05 21:32:37] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'SETTINGS' to 'MAIN_MENU'
+[2026-06-05 21:32:37] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-06-05 21:32:37] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: PLAYING
+[2026-06-05 21:32:37] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-06-05 21:32:37] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-06-05 21:33:05] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-06-05 21:33:10] [INFO] [MainThread] main.py:8: =========================================
+[2026-06-05 21:33:10] [INFO] [MainThread] main.py:9: Starting Fruit Cutter Vision application
+[2026-06-05 21:33:10] [INFO] [MainThread] main.py:10: Python version: 3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]
+[2026-06-05 21:33:10] [INFO] [MainThread] main.py:11: Operating System: win32
+[2026-06-05 21:33:10] [INFO] [MainThread] main.py:12: Current Working Directory: C:\Users\ankit\OneDrive\Desktop\Fruit Cutter Vision
+[2026-06-05 21:33:10] [INFO] [MainThread] main.py:13: =========================================
+[2026-06-05 21:33:10] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-06-05 21:33:10] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:33:10] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'FruitPool' with 20 pre-allocated objects.
+[2026-06-05 21:33:10] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'ParticlePool' with 150 pre-allocated objects.
+[2026-06-05 21:33:10] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'TrailPool' with 40 pre-allocated objects.
+[2026-06-05 21:33:10] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-06-05 21:33:11] [INFO] [MainThread] camera.py:31: Camera capture thread started.
+[2026-06-05 21:33:11] [ERROR] [TrackerThread] hand_tracker.py:130: Exception in HandTracker thread: module 'mediapipe' has no attribute 'solutions'
+Traceback (most recent call last):
+  File "C:\Users\ankit\OneDrive\Desktop\Fruit Cutter Vision\hand_tracker.py", line 59, in _tracking_loop
+    self.mp_hands = mp.solutions.hands
+                    ^^^^^^^^^^^^
+AttributeError: module 'mediapipe' has no attribute 'solutions'
+[2026-06-05 21:33:11] [INFO] [MainThread] hand_tracker.py:54: HandTracker thread started.
+[2026-06-05 21:33:11] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:33:11] [INFO] [MainThread] game_engine.py:101: Game Engine started.
+[2026-06-05 21:33:11] [INFO] [MainThread] fruit.py:20: Generating procedural fruit surfaces...
+[2026-06-05 21:33:11] [INFO] [MainThread] fruit.py:368: Cached 16 procedural fruit surfaces successfully.
+[2026-06-05 21:33:11] [INFO] [MainThread] audio.py:36: Generating procedural sound effects...
+[2026-06-05 21:33:11] [INFO] [MainThread] audio.py:42: Procedural sound generation complete. 5 sounds created.
+[2026-06-05 21:33:11] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'LOADING' to 'MAIN_MENU'
+[2026-06-05 21:33:12] [INFO] [CameraThread] camera.py:50: Webcam initialized: Requested (640x480), Got (640x480)
+[2026-06-05 21:55:46] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 2. Score: 15
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:111: COMBO! Sliced 3 fruits. Bonus +3 points. New score: 6
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:55:46] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-05 21:55:46] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-06-05 21:55:46] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'SETTINGS'
+[2026-06-05 21:55:46] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'SETTINGS' to 'MAIN_MENU'
+[2026-06-05 21:55:46] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-06-05 21:55:46] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: PLAYING
+[2026-06-05 21:55:46] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-06-05 21:55:46] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-06-05 21:56:01] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-06-05 21:56:06] [INFO] [MainThread] main.py:8: =========================================
+[2026-06-05 21:56:06] [INFO] [MainThread] main.py:9: Starting Fruit Cutter Vision application
+[2026-06-05 21:56:06] [INFO] [MainThread] main.py:10: Python version: 3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]
+[2026-06-05 21:56:06] [INFO] [MainThread] main.py:11: Operating System: win32
+[2026-06-05 21:56:06] [INFO] [MainThread] main.py:12: Current Working Directory: C:\Users\ankit\OneDrive\Desktop\Fruit Cutter Vision
+[2026-06-05 21:56:06] [INFO] [MainThread] main.py:13: =========================================
+[2026-06-05 21:56:06] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-06-05 21:56:06] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:56:06] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'FruitPool' with 20 pre-allocated objects.
+[2026-06-05 21:56:06] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'ParticlePool' with 150 pre-allocated objects.
+[2026-06-05 21:56:06] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'TrailPool' with 40 pre-allocated objects.
+[2026-06-05 21:56:06] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-06-05 21:56:06] [INFO] [MainThread] camera.py:31: Camera capture thread started.
+[2026-06-05 21:56:06] [ERROR] [TrackerThread] hand_tracker.py:188: Exception in HandTracker thread: HandLandmarkerOptions.__init__() got an unexpected keyword argument 'min_hand_tracking_confidence'. Did you mean 'min_tracking_confidence'?
+Traceback (most recent call last):
+  File "C:\Users\ankit\OneDrive\Desktop\Fruit Cutter Vision\hand_tracker.py", line 106, in _tracking_loop
+    options = HandLandmarkerOptions(
+        base_options=BaseOptions(model_asset_path=model_path),
+    ...<3 lines>...
+        min_hand_tracking_confidence=config.TRACKING_CONFIDENCE,
+    )
+TypeError: HandLandmarkerOptions.__init__() got an unexpected keyword argument 'min_hand_tracking_confidence'. Did you mean 'min_tracking_confidence'?
+[2026-06-05 21:56:06] [INFO] [MainThread] hand_tracker.py:86: HandTracker thread started.
+[2026-06-05 21:56:06] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-05 21:56:06] [INFO] [MainThread] game_engine.py:101: Game Engine started.
+[2026-06-05 21:56:06] [INFO] [MainThread] fruit.py:20: Generating procedural fruit surfaces...
+[2026-06-05 21:56:06] [INFO] [MainThread] fruit.py:368: Cached 16 procedural fruit surfaces successfully.
+[2026-06-05 21:56:06] [INFO] [MainThread] audio.py:36: Generating procedural sound effects...
+[2026-06-05 21:56:06] [INFO] [MainThread] audio.py:42: Procedural sound generation complete. 5 sounds created.
+[2026-06-05 21:56:07] [INFO] [CameraThread] camera.py:50: Webcam initialized: Requested (640x480), Got (640x480)
+[2026-06-05 21:56:07] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'LOADING' to 'MAIN_MENU'
+[2026-06-13 13:53:25] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-06-13 13:53:42] [INFO] [MainThread] main.py:8: =========================================
+[2026-06-13 13:53:42] [INFO] [MainThread] main.py:9: Starting Fruit Cutter Vision application
+[2026-06-13 13:53:42] [INFO] [MainThread] main.py:10: Python version: 3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]
+[2026-06-13 13:53:42] [INFO] [MainThread] main.py:11: Operating System: win32
+[2026-06-13 13:53:42] [INFO] [MainThread] main.py:12: Current Working Directory: C:\Users\ankit\OneDrive\Desktop\Fruit Cutter Vision
+[2026-06-13 13:53:42] [INFO] [MainThread] main.py:13: =========================================
+[2026-06-13 13:53:43] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-06-13 13:53:43] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-13 13:53:43] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'FruitPool' with 20 pre-allocated objects.
+[2026-06-13 13:53:43] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'ParticlePool' with 150 pre-allocated objects.
+[2026-06-13 13:53:43] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'TrailPool' with 40 pre-allocated objects.
+[2026-06-13 13:53:43] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-06-13 13:53:43] [INFO] [MainThread] camera.py:31: Camera capture thread started.
+[2026-06-13 13:53:43] [ERROR] [TrackerThread] hand_tracker.py:188: Exception in HandTracker thread: HandLandmarkerOptions.__init__() got an unexpected keyword argument 'min_hand_tracking_confidence'. Did you mean 'min_tracking_confidence'?
+Traceback (most recent call last):
+  File "C:\Users\ankit\OneDrive\Desktop\Fruit Cutter Vision\hand_tracker.py", line 106, in _tracking_loop
+    options = HandLandmarkerOptions(
+        base_options=BaseOptions(model_asset_path=model_path),
+    ...<3 lines>...
+        min_hand_tracking_confidence=config.TRACKING_CONFIDENCE,
+    )
+TypeError: HandLandmarkerOptions.__init__() got an unexpected keyword argument 'min_hand_tracking_confidence'. Did you mean 'min_tracking_confidence'?
+[2026-06-13 13:53:43] [INFO] [MainThread] hand_tracker.py:86: HandTracker thread started.
+[2026-06-13 13:53:43] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-13 13:53:43] [INFO] [MainThread] game_engine.py:101: Game Engine started.
+[2026-06-13 13:53:43] [INFO] [MainThread] fruit.py:20: Generating procedural fruit surfaces...
+[2026-06-13 13:53:43] [INFO] [MainThread] fruit.py:368: Cached 16 procedural fruit surfaces successfully.
+[2026-06-13 13:53:43] [INFO] [MainThread] audio.py:36: Generating procedural sound effects...
+[2026-06-13 13:53:43] [INFO] [MainThread] audio.py:42: Procedural sound generation complete. 5 sounds created.
+[2026-06-13 13:53:43] [INFO] [CameraThread] camera.py:50: Webcam initialized: Requested (640x480), Got (640x480)
+[2026-06-13 13:53:43] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'LOADING' to 'MAIN_MENU'
+[2026-06-13 13:54:55] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-13 13:54:55] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-06-13 13:54:56] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:54:58] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:00] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 2. Score: 0
+[2026-06-13 13:55:00] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:03] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:05] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:06] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 1. Score: 0
+[2026-06-13 13:55:08] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:10] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:12] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:14] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:16] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:18] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:20] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:22] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:24] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:26] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:28] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-13 13:55:30] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-13 13:55:32] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-13 13:55:34] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-13 13:55:36] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-13 13:55:38] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-13 13:55:40] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-13 13:55:41] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-13 13:55:43] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-13 13:55:45] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-13 13:55:47] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 2. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-13 13:55:49] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 2. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-13 13:55:50] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.64s, Bomb prob: 0.20
+[2026-06-13 13:55:52] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 1.64s, Bomb prob: 0.20
+[2026-06-13 13:55:54] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 2. Next interval: 1.64s, Bomb prob: 0.20
+[2026-06-13 13:55:54] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 0. Score: 12
+[2026-06-13 13:55:54] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 12
+[2026-06-13 13:55:54] [INFO] [MainThread] score_system.py:155: High scores saved successfully.
+[2026-06-13 13:55:54] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-13 13:55:59] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'MAIN_MENU'
+[2026-06-14 00:44:56] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-06-14 00:45:04] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-06-14 00:45:04] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 00:45:04] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'FruitPool' with 20 pre-allocated objects.
+[2026-06-14 00:45:04] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'ParticlePool' with 150 pre-allocated objects.
+[2026-06-14 00:45:04] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'TrailPool' with 40 pre-allocated objects.
+[2026-06-14 00:45:04] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-06-14 00:45:04] [INFO] [MainThread] fruit.py:20: Generating procedural fruit surfaces...
+[2026-06-14 00:45:04] [INFO] [MainThread] fruit.py:368: Cached 16 procedural fruit surfaces successfully.
+[2026-06-14 00:45:04] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-06-14 00:45:04] [INFO] [MainThread] audio.py:36: Generating procedural sound effects...
+[2026-06-14 00:45:04] [INFO] [MainThread] audio.py:42: Procedural sound generation complete. 5 sounds created.
+[2026-06-14 00:45:04] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'LOADING' to 'PLAYING'
+[2026-06-14 00:45:04] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 00:45:04] [INFO] [MainThread] benchmark.py:62: Headless benchmark game loop active. Simulating inputs...
+[2026-06-14 00:45:04] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:04] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:05] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:05] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 2. Score: 0
+[2026-06-14 00:45:06] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:06] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:07] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:07] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:07] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 1. Score: 0
+[2026-06-14 00:45:08] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:08] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:08] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 0. Score: 0
+[2026-06-14 00:45:08] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-06-14 00:45:08] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-14 00:45:09] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:10] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:10] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:10] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:11] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:12] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:12] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:12] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: -1. Score: 0
+[2026-06-14 00:45:12] [INFO] [MainThread] game_engine.py:595: Game Over triggered! Final score: 0
+[2026-06-14 00:45:13] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:45:13] [INFO] [MainThread] game_engine.py:546: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-14 00:52:51] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 2. Score: 15
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:111: COMBO! Sliced 3 fruits. Bonus +3 points. New score: 6
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 00:53:03] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 00:53:03] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-06-14 00:53:03] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'SETTINGS'
+[2026-06-14 00:53:03] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'SETTINGS' to 'MAIN_MENU'
+[2026-06-14 00:53:03] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-06-14 00:53:03] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: PLAYING
+[2026-06-14 00:53:03] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-06-14 00:53:03] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-06-14 01:01:51] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 2. Score: 15
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:111: COMBO! Sliced 3 fruits. Bonus +3 points. New score: 6
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-14 01:02:04] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-14 01:02:04] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-06-14 01:02:04] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'SETTINGS'
+[2026-06-14 01:02:04] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'SETTINGS' to 'MAIN_MENU'
+[2026-06-14 01:02:04] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-06-14 01:02:04] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: PLAYING
+[2026-06-14 01:02:04] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: MAIN_MENU
+[2026-06-14 01:02:04] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-06-14 23:51:21] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-06-16 21:51:22] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-06-16 21:59:44] [INFO] [MainThread] logger.py:42: Logging initialized. Writing to logs\game.log
+[2026-06-16 22:00:00] [INFO] [MainThread] main.py:8: =========================================
+[2026-06-16 22:00:00] [INFO] [MainThread] main.py:9: Starting Fruit Cutter Vision application
+[2026-06-16 22:00:00] [INFO] [MainThread] main.py:10: Python version: 3.13.6 (tags/v3.13.6:4e66535, Aug  6 2025, 14:36:00) [MSC v.1944 64 bit (AMD64)]
+[2026-06-16 22:00:00] [INFO] [MainThread] main.py:11: Operating System: win32
+[2026-06-16 22:00:00] [INFO] [MainThread] main.py:12: Current Working Directory: C:\Users\ankit\OneDrive\Desktop\Fruit Cutter Vision
+[2026-06-16 22:00:00] [INFO] [MainThread] main.py:13: =========================================
+[2026-06-16 22:00:01] [INFO] [MainThread] state_manager.py:22: StateManager initialized. Starting state: LOADING
+[2026-06-16 22:00:01] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-16 22:00:01] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'FruitPool' with 20 pre-allocated objects.
+[2026-06-16 22:00:01] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'ParticlePool' with 150 pre-allocated objects.
+[2026-06-16 22:00:01] [INFO] [MainThread] object_pool.py:15: Initialized ObjectPool 'TrailPool' with 40 pre-allocated objects.
+[2026-06-16 22:00:01] [INFO] [MainThread] audio.py:20: Pygame mixer initialized: (44100, -16, 2)
+[2026-06-16 22:00:01] [INFO] [CameraThread] camera.py:37: Attempting to open camera 0...
+[2026-06-16 22:00:01] [INFO] [MainThread] camera.py:32: Camera capture thread started.
+[2026-06-16 22:00:01] [INFO] [MainThread] hand_tracker.py:133: HandTracker thread started.
+[2026-06-16 22:00:01] [INFO] [MainThread] score_system.py:140: High scores loaded successfully. 5 records.
+[2026-06-16 22:00:01] [INFO] [MainThread] game_engine.py:102: Game Engine started.
+[2026-06-16 22:00:01] [INFO] [MainThread] fruit.py:20: Generating procedural fruit surfaces...
+[2026-06-16 22:00:01] [INFO] [MainThread] fruit.py:368: Cached 16 procedural fruit surfaces successfully.
+[2026-06-16 22:00:01] [INFO] [MainThread] audio.py:36: Generating procedural sound effects...
+[2026-06-16 22:00:02] [INFO] [TrackerThread] hand_tracker.py:162: MediaPipe HandLandmarker (Tasks API) initialized successfully.
+[2026-06-16 22:00:02] [INFO] [MainThread] audio.py:42: Procedural sound generation complete. 5 sounds created.
+[2026-06-16 22:00:02] [INFO] [CameraThread] camera.py:52: Webcam initialized: Requested (640x480), Got (640x480)
+[2026-06-16 22:00:02] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'LOADING' to 'MAIN_MENU'
+[2026-06-16 22:00:09] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:00:09] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-06-16 22:00:10] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:12] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:12] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:00:14] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:14] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:00:16] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:16] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 0. Score: 0
+[2026-06-16 22:00:16] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 0
+[2026-06-16 22:00:16] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:00:20] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:00:20] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-06-16 22:00:21] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:23] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:25] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:27] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:29] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:31] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:31] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:00:33] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:35] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:37] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:37] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:00:39] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:39] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-16 22:00:39] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 5
+[2026-06-16 22:00:39] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:00:47] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:00:47] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-06-16 22:00:48] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:50] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:52] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:52] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:00:54] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:56] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:00:56] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:00:58] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-16 22:00:58] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 1
+[2026-06-16 22:00:58] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:01:05] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:01:05] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-06-16 22:01:06] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:08] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:08] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:01:10] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:10] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:01:12] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:12] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-16 22:01:12] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 0
+[2026-06-16 22:01:12] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:01:16] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:01:16] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-06-16 22:01:17] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:19] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:19] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:01:21] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:21] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:01:23] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-16 22:01:23] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 0
+[2026-06-16 22:01:23] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:01:28] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:01:28] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-06-16 22:01:29] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:31] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:31] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:01:33] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:33] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:01:35] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:37] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:39] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:41] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:43] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:45] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:47] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:49] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:49] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 0. Score: 0
+[2026-06-16 22:01:49] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 0
+[2026-06-16 22:01:49] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:01:56] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:01:56] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-06-16 22:01:57] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:59] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:01:59] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:02:01] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:02:03] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:02:03] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:02:05] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:02:07] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:02:07] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-16 22:02:07] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 1
+[2026-06-16 22:02:07] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:02:14] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:02:14] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-06-16 22:02:15] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:02:17] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:02:17] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:02:19] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:02:19] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:02:21] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:02:21] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-16 22:02:21] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 0
+[2026-06-16 22:02:21] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:02:28] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'MAIN_MENU'
+[2026-06-16 22:02:35] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'HIGH_SCORES'
+[2026-06-16 22:02:39] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'HIGH_SCORES' to 'MAIN_MENU'
+[2026-06-16 22:02:45] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:02:45] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-06-16 22:02:46] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:02:48] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:02:50] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:02:52] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:02:54] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:02:56] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:02:58] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:02:58] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:00] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:03:00] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:02] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:04] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:06] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:08] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:10] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:12] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:14] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:03:16] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:03:16] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 0. Score: 1
+[2026-06-16 22:03:16] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 1
+[2026-06-16 22:03:16] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:03:19] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:03:19] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-06-16 22:03:20] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:22] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:03:22] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:22] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 1. Score: 0
+[2026-06-16 22:03:24] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:26] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:28] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-16 22:03:28] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 1
+[2026-06-16 22:03:28] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:03:32] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:03:32] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-06-16 22:03:33] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:35] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:35] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:03:37] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:03:37] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:03:39] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-16 22:03:39] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 0
+[2026-06-16 22:03:39] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:04:28] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'MAIN_MENU'
+[2026-06-16 22:04:57] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:04:57] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-06-16 22:04:58] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:00] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:02] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:04] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:06] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:08] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:08] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:05:10] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:10] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:05:12] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:14] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:16] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:16] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-16 22:05:16] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 5
+[2026-06-16 22:05:16] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:05:18] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'MAIN_MENU'
+[2026-06-16 22:05:20] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:05:20] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-06-16 22:05:21] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:23] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:25] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:27] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:29] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:30] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 2. Score: 0
+[2026-06-16 22:05:32] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:34] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:34] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:05:36] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:38] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:39] [INFO] [MainThread] score_system.py:53: Bomb hit! Lives remaining: 0. Score: 0
+[2026-06-16 22:05:39] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 0
+[2026-06-16 22:05:39] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:05:41] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'MAIN_MENU'
+[2026-06-16 22:05:43] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:05:43] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'MAIN_MENU' to 'PLAYING'
+[2026-06-16 22:05:44] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:46] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:48] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:50] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:52] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:54] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:56] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:05:58] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:06:00] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:06:02] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:06:04] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:06:06] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:06:07] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:06:08] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:06:10] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:06:11] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:06:12] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:06:12] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-16 22:06:12] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 10
+[2026-06-16 22:06:12] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:06:13] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:06:13] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-06-16 22:06:14] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:06:16] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:06:18] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:06:20] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:06:21] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:06:22] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:06:24] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:06:26] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:06:27] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:06:28] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-16 22:06:28] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 2
+[2026-06-16 22:06:28] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:08:19] [INFO] [MainThread] score_system.py:37: Score system reset. New game started.
+[2026-06-16 22:08:19] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'GAME_OVER' to 'PLAYING'
+[2026-06-16 22:08:20] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:08:22] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:08:24] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:08:26] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:08:29] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:08:31] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:08:33] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:08:35] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:08:37] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:08:39] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:08:41] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:08:43] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 2.00s, Bomb prob: 0.20
+[2026-06-16 22:08:45] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:08:46] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:08:48] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:08:50] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:08:51] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 2
+[2026-06-16 22:08:52] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:08:52] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 1
+[2026-06-16 22:08:54] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:08:56] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:08:57] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 1. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:08:59] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 2. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:09:01] [INFO] [MainThread] game_engine.py:712: Spawning wave of size 2. Next interval: 1.82s, Bomb prob: 0.20
+[2026-06-16 22:09:01] [INFO] [MainThread] score_system.py:76: Fruit missed! Lives remaining: 0
+[2026-06-16 22:09:01] [INFO] [MainThread] game_engine.py:761: Game Over triggered! Final score: 16
+[2026-06-16 22:09:01] [INFO] [MainThread] score_system.py:155: High scores saved successfully.
+[2026-06-16 22:09:01] [INFO] [MainThread] state_manager.py:34: Transitioning from state 'PLAYING' to 'GAME_OVER'
+[2026-06-16 22:10:02] [INFO] [MainThread] game_engine.py:138: Shutting down game engine...
+[2026-06-16 22:10:02] [INFO] [TrackerThread] hand_tracker.py:268: MediaPipe HandLandmarker resource closed.
+[2026-06-16 22:10:02] [INFO] [MainThread] hand_tracker.py:293: HandTracker thread stopped.
+[2026-06-16 22:10:02] [INFO] [CameraThread] camera.py:96: Webcam video device released.
+[2026-06-16 22:10:02] [INFO] [MainThread] camera.py:108: Camera capture thread stopped.

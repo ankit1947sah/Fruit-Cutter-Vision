@@ -1,0 +1,29 @@
+{
+    "leaderboard": [
+        {
+            "name": "NINJA",
+            "score": 250,
+            "date": "2026-05-30"
+        },
+        {
+            "name": "SENSEI",
+            "score": 150,
+            "date": "2026-05-30"
+        },
+        {
+            "name": "RECRUIT",
+            "score": 50,
+            "date": "2026-05-30"
+        },
+        {
+            "name": "PLAYER",
+            "score": 22,
+            "date": "2026-05-30"
+        },
+        {
+            "name": "PLAYER",
+            "score": 16,
+            "date": "2026-06-16"
+        }
+    ]
+}
