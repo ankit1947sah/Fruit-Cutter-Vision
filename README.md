@@ -1,4 +1,4 @@
-# Antigravity Fruit Cutter Vision
+# Fruit Cutter Vision
 
 A production-ready, high-performance Fruit Ninja clone built in Python. The game uses real-time computer vision (webcam hand tracking via MediaPipe) to let you slice flying fruits with your index finger. It includes a fallback mouse mode so it is fully playable even on environments without a camera.
 
